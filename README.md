@@ -1,0 +1,2 @@
+# power-dns
+instalasi powerdns 
